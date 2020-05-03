@@ -1,2 +1,4 @@
-# C19-Project
-The project is to create a new repository and upload an old class into it
+# angryBirdsStage2.5
+Angry Birds stage 2.5 with Class Inheritance and Images
+
+Modified README file
